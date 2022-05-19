@@ -1,0 +1,66 @@
+{
+    "fname": "sangeetha",
+    "lname": "Harikantra",
+    "mob": 8867503318,
+    "email": "harikantrasangeetha4@gmail.com",
+    "address": [
+        {
+            "hno": 1181,
+            "landmark": "Near KSRTC bus stand",
+            "location": "Behind old tahsildhar office",
+            "city": "Karwar",
+            "district": "Uttar kannada",
+            "state": "Karnataka",
+            "pincode": 581301
+        },
+        {
+            "hno": 1181,
+            "landmark": "Near KSRTC bus stand",
+            "location": "Behind old tahsildhar office",
+            "city": "Karwar",
+            "district": "Uttar kannada",
+            "state": "Karnataka",
+            "pincode": 581301
+        }
+    ],
+    "education": [
+        {
+            "type": "SSE",
+            "institute": "St. Michael's Convent",
+            "grade": "A"
+        },
+        {
+            "type": "PUC",
+            "institute": "Govt. PU college",
+            "grade": "A"
+        },
+        {
+            "type": "ug",
+            "institute": "KVG",
+            "grade": "A"
+        },
+        {
+            "type": "PG",
+            "institute": "NMAMIT",
+            "grade": "A"
+        }
+    ],
+    "experi": [
+        {
+            "compName": "CCSL",
+            "DOJ": "5 sept",
+        },
+        {
+            "compName": "MITE",
+            "DOJ": "17 April 2021",
+        }
+    ],
+    "strength": [
+        "honest",
+        "dedicated"
+    ],
+    "weakness": [
+        "slow learner",
+        "lazy"
+    ],
+}
